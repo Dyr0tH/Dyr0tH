@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dyr0tH
+- 👀 I’m interested in coding ,anime etcc...
+- 🌱 I’m currently learning c++ also I don't really know much about coding and stuff but I wanna explore.
+- 📫 How to reach me? well here's my insta id: dyroth.crystal_mind
