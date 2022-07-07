@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @Dyr0tH
-- 👀 I’m interested in coding ,anime etcc...
-- 🌱 I’m currently learning c++ also I don't really know much about coding and stuff but I wanna explore.
-- 📫 How to reach me? well here's my insta id: dyroth.crystal_mind
+**Hi there** 👋
+I'm dyroth. A rookie software developer and a college student.
+
+🌱 I’m currently learning:
+
+   C, Python, JavaScript and Go
+
+🎉 I’m interested in things related to:
+
+   AWS React Kubernetes Docker
+
+⚡ I like to use these tools:
+
+   Visual Studio Code, Github, Windows, Ubuntu, Arch, Linux, Android
