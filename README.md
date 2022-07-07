@@ -1,4 +1,4 @@
-**Hi there** 👋
+## Hi there 👋
 I'm dyroth. A rookie software developer and a college student.
 
 🌱 I’m currently learning:
